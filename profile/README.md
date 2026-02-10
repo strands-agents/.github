@@ -16,7 +16,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Stars](https://img.shields.io/github/stars/strands-agents?style=social)](https://github.com/strands-agents)
 
-[Documentation](https://strandsagents.com/latest/documentation/docs/) · [Quick Start](https://strandsagents.com/latest/documentation/docs/user-guide/quickstart/overview/) · [Samples](https://github.com/strands-agents/samples) · [Discussions](https://github.com/orgs/strands-agents/discussions)
+[Documentation](https://strandsagents.com/latest/documentation/docs/) · [Quick Start](https://strandsagents.com/latest/documentation/docs/user-guide/quickstart/overview/) · [Samples](https://github.com/strands-agents/samples) · [Discussions](https://github.com/strands-agents/sdk-python/discussions)
 
 </div>
 
@@ -57,7 +57,7 @@ npm install @strands-agents/sdk                    # TypeScript
 
 Strands is built in the open and growing fast. The community contributes [model providers](https://strandsagents.com/latest/documentation/docs/community/community-packages/) (Cohere, xAI, Fireworks AI, NVIDIA NIM, vLLM, MLX, SGLang), [session managers](https://strandsagents.com/latest/documentation/docs/community/community-packages/) (Valkey/Redis, AgentCore Memory), [tools](https://strandsagents.com/latest/documentation/docs/community/community-packages/) (Telegram, HubSpot, Deepgram), and [integrations](https://strandsagents.com/latest/documentation/docs/community/integrations/ag-ui/) (AG-UI).
 
-👉 [See all community packages](https://strandsagents.com/latest/documentation/docs/community/community-packages/) · [Get your project featured](https://strandsagents.com/latest/documentation/docs/community/get-featured/) · [Join the discussion](https://github.com/orgs/strands-agents/discussions)
+👉 [See all community packages](https://strandsagents.com/latest/documentation/docs/community/community-packages/) · [Get your project featured](https://strandsagents.com/latest/documentation/docs/community/get-featured/) · [Join the discussion](https://github.com/strands-agents/sdk-python/discussions)
 
 ---
 
@@ -92,7 +92,7 @@ We welcome contributions of all kinds — bug reports, feature requests, docs im
 
 <div align="center">
 
-**[Website](https://strandsagents.com)** · **[Docs](https://strandsagents.com/latest/documentation/docs/)** · **[Samples](https://github.com/strands-agents/samples)** · **[Discussions](https://github.com/orgs/strands-agents/discussions)**
+**[Website](https://strandsagents.com)** · **[Docs](https://strandsagents.com/latest/documentation/docs/)** · **[Samples](https://github.com/strands-agents/samples)** · **[Discussions](https://github.com/strands-agents/sdk-python/discussions)**
 
 All projects are Apache 2.0 licensed.
 
