@@ -15,6 +15,7 @@
 [![npm](https://img.shields.io/npm/v/@strands-agents/sdk)](https://www.npmjs.com/package/@strands-agents/sdk)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Stars](https://img.shields.io/github/stars/strands-agents?style=social)](https://github.com/strands-agents)
+[![Discord](https://img.shields.io/badge/Discord-Strands-5865F2?logo=discord&logoColor=white)](https://discord.gg/strands)
 
 [Documentation](https://strandsagents.com/latest/documentation/docs/) · [Quick Start](https://strandsagents.com/latest/documentation/docs/user-guide/quickstart/overview/) · [Samples](https://github.com/strands-agents/samples) · [Discussions](https://github.com/strands-agents/sdk-python/discussions)
 
@@ -89,6 +90,13 @@ Strands is built in the open and growing fast. The community contributes [model 
 ### Contributing
 
 We welcome contributions of all kinds — bug reports, feature requests, docs improvements, and code. See our [contributing guide](https://github.com/strands-agents/sdk-python/blob/main/CONTRIBUTING.md) to get started.
+
+---
+
+### Stay in touch with the team
+Come meet the Strands team and other users on [**Discord**](https://discord.com/invite/strands)
+
+---
 
 <div align="center">
 
