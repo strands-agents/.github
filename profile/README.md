@@ -66,8 +66,9 @@ Strands is built in the open and growing fast. The community contributes [model 
 
 | | |
 |---|---|
-| **[sdk-python](https://github.com/strands-agents/harness-sdk/tree/main/strands-py)** | Python SDK — the core agent framework |
-| **[sdk-typescript](https://github.com/strands-agents/harness-sdk/tree/main/strands-ts)** | TypeScript SDK — agents in Node.js and the browser |
+| **[harness-sdk/strands-py](https://github.com/strands-agents/harness-sdk/tree/main/strands-py)** | Python SDK — the core agent framework |
+| **[harness-sdk/strands-ts](https://github.com/strands-agents/harness-sdk/tree/main/strands-ts)** | TypeScript SDK — agents in Node.js and the browser |
+| **[evals](https://github.com/strands-agents/evals)** | SDK for testing and benchmarking your agents |
 
 ### Get Started
 
@@ -82,7 +83,6 @@ Strands is built in the open and growing fast. The community contributes [model 
 | | |
 |---|---|
 | **[tools](https://github.com/strands-agents/tools)** | Pre-built tools: file I/O, HTTP, shell, code interpreter, and more |
-| **[evals](https://github.com/strands-agents/evals)** | SDK for testing and benchmarking your agents |
 | **[agent-sop](https://github.com/strands-agents/agent-sop)** | Structured prompting for reliable, multi-step agent behavior |
 
 ---
