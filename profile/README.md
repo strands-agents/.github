@@ -7,7 +7,7 @@
 
   <h1>Strands Agents</h1>
 
-  <h2>Build AI agents in just a few lines of code.</h2>
+  <h2>The open source toolkit for building production agents.</h2>
 
   <p>A model-driven, open source SDK for creating AI agents—from simple conversational assistants to complex autonomous workflows. Python and TypeScript. Apache 2.0.</p>
 
