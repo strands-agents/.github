@@ -83,6 +83,7 @@ Strands is built in the open and growing fast. The community contributes [model 
 | | |
 |---|---|
 | **[tools](https://github.com/strands-agents/tools)** | Pre-built tools: file I/O, HTTP, shell, code interpreter, and more |
+| **[shell](https://github.com/strands-agents/shell)** | Give your agent a shell without giving it the keys to your machine |
 | **[agent-sop](https://github.com/strands-agents/agent-sop)** | Structured prompting for reliable, multi-step agent behavior |
 
 ---
