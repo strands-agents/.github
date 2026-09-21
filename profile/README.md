@@ -10,7 +10,7 @@
 
   <h1>Strands Agents</h1>
 
-  <h2>Start with an agent. Make it yours.</h2>
+  <h2>Put agents to work your way.</h2>
 
   <p>Open source tools for building and running AI agents in Python and TypeScript. Use a preconfigured harness, work in your terminal, or build your own agent with the Harness SDK.</p>
 
