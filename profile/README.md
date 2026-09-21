@@ -46,6 +46,8 @@ If instead you want to build your agent from the ground up, reach for the Harnes
 - **Start with more already done.** Tools, context management, sessions, and memory come configured in Strands harness.
 - **Make it yours.** Keep useful defaults, replace components, or assemble your own agent with the SDK.
 - **Choose your stack.** Build in Python or TypeScript with your choice of models and tools.
+- **Connect your tools.** Use built-in MCP support to connect agents to tools and services.
+- **Let agents work together.** Delegate tasks and coordinate multiple agents.
 
 ## Explore the projects
 
