@@ -27,7 +27,7 @@
 
 ## Start here
 
-Strands harness is built with the Harness SDK. Both are customizable. The difference is your starting point.
+Choose your starting point: a preconfigured agent with Strands harness, or your own agent built with the Harness SDK. Both are customizable.
 
 ### Strands harness
 
