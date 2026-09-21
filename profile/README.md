@@ -41,6 +41,12 @@ If instead you want to build your agent from the ground up, reach for the Harnes
 
 [Get started with the Harness SDK →](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)
 
+## Why Strands?
+
+- **Start with more already done.** Tools, context management, sessions, and memory come configured in Strands harness.
+- **Make it yours.** Keep useful defaults, replace components, or assemble your own agent with the SDK.
+- **Choose your stack.** Build in Python or TypeScript with your choice of models and tools.
+
 ## Explore the projects
 
 There’s more to Strands. Explore an ecosystem of tools, examples, and extensions for building, evaluating, and working with agents.
