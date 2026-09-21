@@ -21,7 +21,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Stars](https://img.shields.io/github/stars/strands-agents?style=social)](https://github.com/strands-agents)
 
-[Documentation](https://strandsagents.com/) ◆ [Samples](https://github.com/strands-agents/samples) ◆ [MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp) ◆ [Discord](https://discord.gg/strands)
+[Documentation](https://strandsagents.com/) ◆ [Samples](https://github.com/strands-agents/samples) ◆ [Discord](https://discord.gg/strands)
 
 </div>
 
