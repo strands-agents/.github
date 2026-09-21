@@ -49,12 +49,12 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 |---|---|
 | **[Harness SDK](https://github.com/strands-agents/harness-sdk)** | Source for the SDKs, Strands harness, CLI, and documentation. |
 | **[Strands CLI](https://github.com/strands-agents/harness-sdk/tree/main/strands-cli#installation)** | Chat with Strands harness from your terminal. |
-| **[Samples](https://github.com/strands-agents/samples)** | Example agents to learn from and build on. |
 | **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
-| **[MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Bring Strands documentation into your AI coding assistant. |
 | **[Shell](https://github.com/strands-agents/shell)** | Shell access for agents. |
-| **[Agent SOP](https://github.com/strands-agents/agent-sop)** | Turn repeatable tasks into reusable agent instructions. |
 | **[Extension Template](https://github.com/strands-agents/extension-template)** | Build and share tools, plugins, and other extensions. |
+| **[Samples](https://github.com/strands-agents/samples)** | Example agents to learn from and build on. |
+| **[MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Bring Strands documentation into your AI coding assistant. |
+| **[Agent SOP](https://github.com/strands-agents/agent-sop)** | Turn repeatable tasks into reusable agent instructions. |
 
 ## Build with us
 
