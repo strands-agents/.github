@@ -27,12 +27,19 @@
 
 ## Start here
 
-| Your goal | Start with |
-|---|---|
-| Put an agent to work | **[Strands harness](https://strandsagents.com/docs/user-guide/harness/quickstart/)**: tools, context management, sessions, and memory, already configured. |
-| Build your own agent | **[Harness SDK](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)**: choose your models, tools, and agent behavior. |
+Strands harness is built with the Harness SDK. Both are customizable. The difference is your starting point.
 
-Strands harness is the Harness SDK preconfigured. Keep the defaults you like and replace the ones you don't.
+### Strands harness
+
+Start with a preconfigured agent that includes tools, context management, sessions, and memory. Keep the defaults you like and change what you need.
+
+[Get started with Strands harness →](https://strandsagents.com/docs/user-guide/harness/quickstart/)
+
+### Harness SDK
+
+Build your own agent with the SDK's components. Choose your models and tools, then configure how your agent manages context, sessions, and memory.
+
+[Get started with the Harness SDK →](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)
 
 ## Explore the projects
 
