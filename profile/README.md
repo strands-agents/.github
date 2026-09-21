@@ -37,7 +37,7 @@ Start with a preconfigured agent that includes tools, context management, sessio
 
 ### Harness SDK
 
-Build your own agent with the SDK's components. Choose your models and tools, then configure how your agent manages context, sessions, and memory.
+If instead you want to build your agent from the ground up, reach for the Harness SDK. It gives you the same components that power Strands harness. Choose your models and tools, then configure how your agent manages context, sessions, and memory.
 
 [Get started with the Harness SDK →](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)
 
