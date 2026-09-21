@@ -43,6 +43,8 @@ If instead you want to build your agent from the ground up, reach for the Harnes
 
 ## Explore the projects
 
+There’s more to Strands. Explore an ecosystem of tools, examples, and extensions for building, evaluating, and working with agents.
+
 | Project | What you'll find |
 |---|---|
 | **[Harness SDK](https://github.com/strands-agents/harness-sdk)** | Source for the SDKs, Strands harness, CLI, and documentation. |
