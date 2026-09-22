@@ -66,6 +66,6 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 
 ## Build with us
 
-Bring a question, an experiment, or something you're proud of to [Discord](https://discord.gg/strands) or [GitHub Discussions](https://github.com/strands-agents/harness-sdk/discussions). You don't need a finished project to join the conversation.
+See what the community is building, from an [MLX model provider](https://strandsagents.com/docs/integrations/model-providers/mlx/) and a [Valkey session manager](https://strandsagents.com/docs/integrations/session-managers/strands-valkey-session-manager/) to an [AG-UI integration](https://strandsagents.com/docs/integrations/integrations/ag-ui/). [Explore community packages](https://strandsagents.com/integrations/).
 
-A bug report, a useful example, or one clearer sentence in the docs can make someone else's day easier. [Here's how to contribute](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md).
+Bring your questions, ideas, and projects to [Discord](https://discord.gg/strands) or [GitHub Discussions](https://github.com/strands-agents/harness-sdk/discussions). [Help improve Strands](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md) through code, examples, documentation, or feedback.
