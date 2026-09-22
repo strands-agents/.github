@@ -66,6 +66,6 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 
 ## Build with us
 
-Explore what the community is building: model providers ([MLX](https://strandsagents.com/docs/integrations/model-providers/mlx/)), session managers ([Valkey](https://strandsagents.com/docs/integrations/session-managers/strands-valkey-session-manager/)), and integrations ([AG-UI](https://strandsagents.com/docs/integrations/integrations/ag-ui/)). [See more community packages](https://strandsagents.com/integrations/).
+Build alongside a community creating [packages for Strands](https://strandsagents.com/integrations/), including model providers ([MLX](https://strandsagents.com/docs/integrations/model-providers/mlx/)), session managers ([Valkey](https://strandsagents.com/docs/integrations/session-managers/strands-valkey-session-manager/)), and integrations ([AG-UI](https://strandsagents.com/docs/integrations/integrations/ag-ui/)).
 
-Share what you're building, ask questions, or trade ideas on [Discord](https://discord.gg/strands) or [GitHub Discussions](https://github.com/strands-agents/harness-sdk/discussions). [Help improve Strands](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md) through code, examples, documentation, or feedback.
+Bring your own ideas and questions to [Discord](https://discord.gg/strands) or [GitHub Discussions](https://github.com/strands-agents/harness-sdk/discussions). Whether you're adding an integration, sharing an example, or improving the docs, [there's a place for you to contribute](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md).
