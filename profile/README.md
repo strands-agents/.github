@@ -10,105 +10,62 @@
 
   <h1>Strands Agents</h1>
 
-  <h2>The open source toolkit for building production agents.</h2>
+  <h2>Put agents to work your way.</h2>
 
-  <p>A model-driven, open source SDK for creating AI agents—from simple conversational assistants to complex autonomous workflows. Python and TypeScript. Apache 2.0.</p>
+  <p>Open source tools for building and running AI agents in Python and TypeScript. Use Strands harness for a preconfigured agent, or build your own with the Harness SDK.</p>
 
-[![PyPI](https://img.shields.io/pypi/v/strands-agents)](https://pypi.org/project/strands-agents/)
-[![npm](https://img.shields.io/npm/v/@strands-agents/sdk)](https://www.npmjs.com/package/@strands-agents/sdk)
+[![Python harness version](https://img.shields.io/pypi/v/strands-harness?label=Python%20harness)](https://pypi.org/project/strands-harness/)
+[![TypeScript harness version](https://img.shields.io/npm/v/%40strands-agents%2Fharness?label=TypeScript%20harness)](https://www.npmjs.com/package/@strands-agents/harness)
+[![Python SDK version](https://img.shields.io/pypi/v/strands-agents?label=Python%20SDK)](https://pypi.org/project/strands-agents/)
+[![TypeScript SDK version](https://img.shields.io/npm/v/%40strands-agents%2Fsdk?label=TypeScript%20SDK)](https://www.npmjs.com/package/@strands-agents/sdk)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Stars](https://img.shields.io/github/stars/strands-agents?style=social)](https://github.com/strands-agents)
-[![Discord](https://img.shields.io/badge/Discord-Strands-5865F2?logo=discord&logoColor=white)](https://discord.gg/strands)
 
-[Documentation](https://strandsagents.com/) · [Quick Start](https://strandsagents.com/docs/user-guide/quickstart/overview/) · [Samples](https://github.com/strands-agents/samples) · [Discussions](https://github.com/strands-agents/harness-sdk/discussions)
-
-</div>
-
----
-
-```python
-# Python
-from strands import Agent
-from strands_tools import calculator
-
-agent = Agent(tools=[calculator])
-agent("What is the square root of 1764?")
-```
-
-```typescript
-// TypeScript
-import { Agent } from "@strands-agents/sdk";
-
-const agent = new Agent();
-await agent.invoke("What is the square root of 1764?");
-```
-
-```bash
-pip install strands-agents strands-agents-tools   # Python
-npm install @strands-agents/sdk                   # TypeScript
-```
-
----
-
-### Why Strands?
-
-- **Simple** — A minimal agent loop that just works. No boilerplate, no complex abstractions.
-- **Model agnostic** — Amazon Bedrock, Anthropic, OpenAI, Gemini, Ollama, LiteLLM, llama.cpp, and [more](https://strandsagents.com/docs/user-guide/concepts/model-providers/). Swap providers in one line.
-- **Multi-agent built in** — Coordinate agents with [Subagents](https://strandsagents.com/docs/user-guide/concepts/multi-agent/agents-as-tools/), [Graph](https://strandsagents.com/docs/user-guide/concepts/multi-agent/graph/), [Swarm](https://strandsagents.com/docs/user-guide/concepts/multi-agent/swarm/), and [Workflow](https://strandsagents.com/docs/user-guide/concepts/multi-agent/workflow/) patterns — plus [A2A protocol](https://strandsagents.com/docs/user-guide/concepts/multi-agent/agent-to-agent/) for cross-framework interop.
-- **Native MCP** — First-class Model Context Protocol support gives your agents access to thousands of tools.
-- **Production ready** — [Deploy](https://strandsagents.com/docs/user-guide/deploy/operating-agents-in-production/) to AWS Lambda, Fargate, EKS, Bedrock AgentCore, Docker, Kubernetes, or Terraform with built-in OpenTelemetry observability.
-- **Conversational & beyond** — Streaming, non-streaming, autonomous agents, structured output, and real-time bidirectional audio conversations.
-
-### Community
-
-Strands is built in the open and growing fast. The community contributes [model providers](https://strandsagents.com/docs/community/community-packages/) (Cohere, xAI, Fireworks AI, NVIDIA NIM, vLLM, MLX, SGLang), [session managers](https://strandsagents.com/docs/community/community-packages/) (Valkey/Redis, AgentCore Memory), [tools](https://strandsagents.com/docs/community/community-packages/) (Telegram, HubSpot, Deepgram), and [integrations](https://strandsagents.com/docs/community/integrations/ag-ui/) (AG-UI).
-
-Come chat with the team and other builders on [**Discord**](https://discord.gg/strands), where we talk through questions, ideas, and what people are building.
-
-👉 [See all community packages](https://strandsagents.com/docs/community/community-packages/) · [Get your project featured](https://strandsagents.com/docs/community/get-featured/) · [Join us on Discord](https://discord.gg/strands) · [Join the discussion](https://github.com/strands-agents/harness-sdk/discussions)
-
----
-
-### SDKs
-
-| | |
-|---|---|
-| **[harness-sdk/strands-py](https://github.com/strands-agents/harness-sdk/tree/main/strands-py)** | Python SDK — the core agent framework |
-| **[harness-sdk/strands-ts](https://github.com/strands-agents/harness-sdk/tree/main/strands-ts)** | TypeScript SDK — agents in Node.js and the browser |
-| **[evals](https://github.com/strands-agents/evals)** | SDK for testing and benchmarking your agents |
-
-### Get Started
-
-| | |
-|---|---|
-| **[samples](https://github.com/strands-agents/samples)** | Example agents and real-world use cases |
-| **[harness-sdk/strands-mcp](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Documentation server for building with Strands in your AI coding assistant |
-
-### Go Deeper
-
-| | |
-|---|---|
-| **[tools](https://github.com/strands-agents/tools)** | Pre-built tools: file I/O, HTTP, shell, code interpreter, and more |
-| **[shell](https://github.com/strands-agents/shell)** | Give your agent a shell without giving it the keys to your machine |
-| **[agent-sop](https://github.com/strands-agents/agent-sop)** | Structured prompting for reliable, multi-step agent behavior |
-
----
-
-### Contributing
-
-We welcome contributions of all kinds — bug reports, feature requests, docs improvements, and code. See our [contributing guide](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md) to get started.
-
----
-
-### Stay in touch with the team
-Come meet the Strands team and other users on [**Discord**](https://discord.gg/strands)
-
----
-
-<div align="center">
-
-**[Website](https://strandsagents.com)** · **[Docs](https://strandsagents.com/docs/user-guide/quickstart/overview/)** · **[Samples](https://github.com/strands-agents/samples)** · **[Discussions](https://github.com/strands-agents/harness-sdk/discussions)**
-
-All projects are Apache 2.0 licensed.
+[Documentation](https://strandsagents.com/) ◆ [Samples](https://github.com/strands-agents/samples) ◆ [Discord](https://discord.gg/strands)
 
 </div>
+
+## Start here
+
+Choose your starting point: a preconfigured agent with Strands harness, or your own agent built with the Harness SDK. Both are customizable.
+
+### Strands harness
+
+Start with a preconfigured agent that includes tools, context management, sessions, and memory. Keep the defaults you like and change what you need.
+
+[Get started with Strands harness →](https://strandsagents.com/docs/user-guide/harness/quickstart/)
+
+### Harness SDK
+
+If instead you want to build your agent from the ground up, reach for the Harness SDK. Choose your models and tools, then configure how your agent manages context, sessions, and memory.
+
+[Get started with the Harness SDK →](https://strandsagents.com/docs/user-guide/sdk/quickstart/overview/)
+
+## Why Strands?
+
+- **Start with more already done.** Tools, context management, sessions, and memory come configured in Strands harness.
+- **Make it yours.** Keep useful defaults, replace components, or assemble your own agent with the SDK.
+- **Choose your stack.** Build in Python or TypeScript with your choice of [models](https://strandsagents.com/docs/user-guide/sdk/model-providers/) and [tools](https://strandsagents.com/docs/user-guide/sdk/tools/custom-tools/).
+- **Connect your tools.** Use built-in [MCP support](https://strandsagents.com/docs/user-guide/sdk/tools/mcp-tools/) to connect agents to tools and services.
+- **Let agents work together.** Delegate tasks and [coordinate multiple agents](https://strandsagents.com/docs/user-guide/sdk/multi-agent/multi-agent-patterns/).
+
+## Explore the projects
+
+There’s more to Strands. Explore an ecosystem of tools, examples, and extensions for building, evaluating, and working with agents.
+
+| Project | What you'll find |
+|---|---|
+| **[Harness SDK](https://github.com/strands-agents/harness-sdk)** | Source for the SDKs, Strands harness, CLI, and documentation. |
+| **[Strands CLI](https://github.com/strands-agents/harness-sdk/tree/main/strands-cli#installation)** | Chat with Strands harness from your terminal. |
+| **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
+| **[Shell](https://github.com/strands-agents/shell)** | Shell access for agents. |
+| **[Extension Template](https://github.com/strands-agents/extension-template)** | Build and share tools, plugins, and other extensions. |
+| **[Samples](https://github.com/strands-agents/samples)** | Example agents to learn from and build on. |
+| **[MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Bring Strands documentation into your AI coding assistant. |
+| **[Agent SOP](https://github.com/strands-agents/agent-sop)** | Turn repeatable tasks into reusable agent instructions. |
+
+## Build with us
+
+Build alongside a community creating [packages for Strands](https://strandsagents.com/integrations/), including model providers ([MLX](https://strandsagents.com/docs/integrations/model-providers/mlx/)), session managers ([Valkey](https://strandsagents.com/docs/integrations/session-managers/strands-valkey-session-manager/)), and integrations ([AG-UI](https://strandsagents.com/docs/integrations/integrations/ag-ui/)).
+
+Bring your own ideas and questions to [Discord](https://discord.gg/strands) or [GitHub Discussions](https://github.com/strands-agents/harness-sdk/discussions). Whether you're adding an integration, sharing an example, or improving the docs, [there's a place for you to contribute](https://github.com/strands-agents/harness-sdk/blob/main/CONTRIBUTING.md).
