@@ -59,6 +59,7 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 | **[Strands CLI](https://github.com/strands-agents/harness-sdk/tree/main/strands-cli#installation)** | Chat with Strands harness from your terminal. |
 | **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
 | **[Shell](https://github.com/strands-agents/shell)** | Shell access for agents. |
+| **[Box](https://github.com/strands-agents/box)** | Sandbox agents with OS isolation and default-deny policies. |
 | **[Extension Template](https://github.com/strands-agents/extension-template)** | Build and share tools, plugins, and other extensions. |
 | **[Samples](https://github.com/strands-agents/samples)** | Example agents to learn from and build on. |
 | **[MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Bring Strands documentation into your AI coding assistant. |
