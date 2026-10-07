@@ -55,13 +55,14 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 
 | Project | What you'll find |
 |---|---|
-| **[Harness SDK](https://github.com/strands-agents/harness-sdk)** | Source for the SDKs, Strands harness, CLI, and documentation. |
-| **[Strands CLI](https://github.com/strands-agents/harness-sdk/tree/main/strands-cli#installation)** | Chat with Strands harness from your terminal. |
-| **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
-| **[Shell](https://github.com/strands-agents/shell)** | Shell access for agents. |
+| **Harness** ([Python](https://github.com/strands-agents/harness-sdk/tree/main/harness-py), [TypeScript](https://github.com/strands-agents/harness-sdk/tree/main/harness-ts)) | A preconfigured agent with tools, context management, sessions, and memory. |
+| **Harness SDK** ([Python](https://github.com/strands-agents/harness-sdk/tree/main/strands-py), [TypeScript](https://github.com/strands-agents/harness-sdk/tree/main/strands-ts)) | Build your own agent with your choice of models and tools. |
 | **[Box](https://github.com/strands-agents/box)** | Run agents in a sandbox that controls what they can execute, read, write, and reach on the network. |
-| **[Extension Template](https://github.com/strands-agents/extension-template)** | Build and share tools, plugins, and other extensions. |
+| **[Shell](https://github.com/strands-agents/shell)** | A virtual shell that gives agents only the files, URLs, and credentials you allow. |
+| **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
+| **[Labs](https://github.com/strands-labs)** | Get hands-on with experimental, state-of-the-art approaches to agentic development. |
 | **[Samples](https://github.com/strands-agents/samples)** | Example agents to learn from and build on. |
+| **[Extension Template](https://github.com/strands-agents/extension-template)** | Build and share tools, plugins, and other extensions. |
 | **[MCP Server](https://github.com/strands-agents/harness-sdk/tree/main/strands-mcp)** | Bring Strands documentation into your AI coding assistant. |
 | **[Agent SOP](https://github.com/strands-agents/agent-sop)** | Turn repeatable tasks into reusable agent instructions. |
 
