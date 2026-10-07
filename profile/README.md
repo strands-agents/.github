@@ -57,6 +57,7 @@ There’s more to Strands. Explore an ecosystem of tools, examples, and extensio
 |---|---|
 | **Harness** ([Python](https://github.com/strands-agents/harness-sdk/tree/main/harness-py), [TypeScript](https://github.com/strands-agents/harness-sdk/tree/main/harness-ts)) | A preconfigured agent with tools, context management, sessions, and memory. |
 | **Harness SDK** ([Python](https://github.com/strands-agents/harness-sdk/tree/main/strands-py), [TypeScript](https://github.com/strands-agents/harness-sdk/tree/main/strands-ts)) | Build your own agent with your choice of models and tools. |
+| **[Strands CLI](https://github.com/strands-agents/harness-sdk/tree/main/strands-cli#installation)** | Chat with Strands harness from your terminal. |
 | **[Box](https://github.com/strands-agents/box)** | Run agents in a sandbox that controls what they can execute, read, write, and reach on the network. |
 | **[Shell](https://github.com/strands-agents/shell)** | A virtual shell that gives agents only the files, URLs, and credentials you allow. |
 | **[Evals](https://github.com/strands-agents/evals)** | Measure how your agents perform. |
